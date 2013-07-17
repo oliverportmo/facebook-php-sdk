@@ -18,8 +18,8 @@ have is:
     require 'facebook-php-sdk/src/facebook.php';
 
     $facebook = new Facebook(array(
-      'appId'  => 'YOUR_APP_ID',
-      'secret' => 'YOUR_APP_SECRET',
+      'appId'  => 'YOUR_374874025968541_ID',
+      'secret' => 'YOUR_    fdd150886cb5faeca5c6559581e9924c_SECRET',
     ));
 
     // Get User ID
